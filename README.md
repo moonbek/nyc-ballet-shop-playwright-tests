@@ -97,6 +97,14 @@ This project follows the Page Object Model (POM) pattern:
 
 This approach improves maintainability, readability, and scalability of automated tests.
 
+## Screenshots
+
+### Logo Verification
+![Logo Verification](screenshots/logo-page.png)
+
+### Caret Icon Verification
+![Caret Icon Verification](screenshots/caret-icon-page.png)
+
 ## Author
 
 Oybek Tashpulatov
