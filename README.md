@@ -1,5 +1,7 @@
 # NYC Ballet Shop - Playwright UI Tests
 
+![Playwright Tests](https://github.com/moonbek/nyc-ballet-shop-playwright-tests/actions/workflows/playwright.yml/badge.svg)
+
 Automated UI testing project for the NYC Ballet Shop website using Playwright and TypeScript.
 
 ## Project Overview
